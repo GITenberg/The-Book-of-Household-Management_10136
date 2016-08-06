@@ -1,0 +1,61 @@
+_repo: The-Book-of-Household-Management_10136
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beeton, Mrs. (Isabella Mary)
+    alias: Beeton, Isabella Mary Mayson
+    birthdate: 1836
+    deathdate: 1865
+    gutenberg_agent_id: '3324'
+    url: http://www.gutenberg.org/2009/agents/3324
+    wikipedia: http://en.wikipedia.org/wiki/Mrs_Beeton
+description: "Mrs Beeton's Book of Household Management, also published as Mrs Beeton's\
+  \ Cookery Book, is an extensive guide to running a household in Victorian Britain,\
+  \ edited by Isabella Beeton and first published as a book in 1861. It had previously\
+  \ been published in parts. It was originally entitled Beeton's Book of Household\
+  \ Management, as one of the series of guide-books published by her husband, Samuel\
+  \ Beeton. The recipes were highly structured, in contrast to earlier cookbooks.\
+  \ It was illustrated with many monochrome and colour plates.\nAlthough Mrs Beeton\
+  \ died in 1865, the book continued to be a best-seller. The first editions after\
+  \ her death contained an obituary notice, but this was removed from later editions,\
+  \ allowing readers to imagine that every word was written by an experienced Mrs\
+  \ Beeton personally. This fiction was expressed in one of Arthur Conan Doyle's novels,\
+  \ where a character declares: \"Mrs Beeton must have been the finest housekeeper\
+  \ in the world, therefore Mr. Beeton must have been the happiest and most comfortable\
+  \ man\".\nMany of the recipes were copied from the most successful cookery books\
+  \ of the day including Eliza Acton's Modern Cookery for Private Families, Elizabeth\
+  \ Raffald's The Experienced English Housekeeper, Marie-Antoine Carême's Le Pâtissier\
+  \ royal parisien, Hannah Glasse's The Art of Cookery Made Plain and Easy, Maria\
+  \ Eliza Rundell's A New System of Domestic Cookery, and the works of Charles Elmé\
+  \ Francatelli. This practice of Mrs Beeton's has in modern times repeatedly been\
+  \ described as plagiarism.\nThe book expanded steadily in length, until by 1907\
+  \ it reached 74 chapters and over 2000 pages. Nearly two million copies were sold\
+  \ by 1868, and it remains in print (as of 2016). Between 1875 and 1914 it was probably\
+  \ the most often consulted cookery book. Mrs Beeton has been compared on the strength\
+  \ of the book with modern domestic goddesses like Nigella Lawson and Delia Smith.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Cookery
+- Technology
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10136'
+  wikidata: Q2917183
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Home economics'
+- !lcsh 'Cooking, English'
+- !lcc 'TX'
+- GITenberg
+title: The Book of Household Management
+url: http://www.gutenberg.org/ebooks/10136
+wikipedia:
+- https://sv.wikipedia.org/wiki/Mrs_Beeton%27s_Book_of_Household_Management
+- https://en.wikipedia.org/wiki/Mrs_Beeton%27s_Book_of_Household_Management
+- https://it.wikipedia.org/wiki/Mrs_Beeton%27s_Book_of_Household_Management
+- https://es.wikipedia.org/wiki/Mrs_Beeton%27s_Book_of_Household_Management
+- https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%A8%D7%94_%D7%A9%D7%9C_%D7%94%D7%92%D7%91%D7%A8%D7%AA_%D7%91%D7%99%D7%98%D7%95%D7%9F_%D7%9C%D7%A0%D7%99%D7%94%D7%95%D7%9C_%D7%9E%D7%A9%D7%A7_%D7%94%D7%91%D7%99%D7%AA
