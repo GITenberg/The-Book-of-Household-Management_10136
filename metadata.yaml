@@ -1,5 +1,8 @@
 _repo: The-Book-of-Household-Management_10136
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beeton, Mrs. (Isabella Mary)
@@ -34,6 +37,8 @@ description: "Mrs Beeton's Book of Household Management, also published as Mrs B
   \ the most often consulted cookery book. Mrs Beeton has been compared on the strength\
   \ of the book with modern domestic goddesses like Nigella Lawson and Delia Smith.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10136#The-Book-of-Household-Management
 gutenberg_bookshelf:
 - Cookery
 - Technology
